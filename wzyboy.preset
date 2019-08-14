@@ -80,7 +80,7 @@ DisableRestorePoints          # EnableRestorePoints
 # EnableStorageSense            # DisableStorageSense
 # DisableDefragmentation        # EnableDefragmentation
 # DisableSuperfetch             # EnableSuperfetch
-DisableIndexing               # EnableIndexing
+# DisableIndexing               # EnableIndexing
 # DisableSwapFile               # EnableSwapFile
 EnableNTFSLongPaths             # DisableNTFSLongPaths
 # DisableNTFSLastAccess         # EnableNTFSLastAccess
@@ -145,7 +145,7 @@ ShowKnownExtensions             # HideKnownExtensions
 #HideSyncNotifications           # ShowSyncNotifications
 #HideRecentShortcuts             # ShowRecentShortcuts
 #SetExplorerThisPC               # SetExplorerQuickAccess
-HideQuickAccess                 # ShowQuickAccess
+# HideQuickAccess                 # ShowQuickAccess
 # HideRecycleBinFromDesktop     # ShowRecycleBinOnDesktop
 #ShowThisPCOnDesktop             # HideThisPCFromDesktop
 # ShowUserFolderOnDesktop       # HideUserFolderFromDesktop
