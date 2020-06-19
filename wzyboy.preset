@@ -57,7 +57,7 @@ SetDEPOptOut                    # SetDEPOptIn
 
 ### Network Tweaks ###
 SetCurrentNetworkPrivate        # SetCurrentNetworkPublic
-SetUnknownNetworksPrivate     # SetUnknownNetworksPublic
+# SetUnknownNetworksPrivate     # SetUnknownNetworksPublic
 # DisableNetDevicesAutoInst     # EnableNetDevicesAutoInst
 DisableHomeGroups             # EnableHomeGroups
 DisableSMB1                   # EnableSMB1
